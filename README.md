@@ -1,4 +1,4 @@
-![GIF_20241024_193613_778](https://github.com/user-attachments/assets/7ba76a5f-675b-46de-a41c-47c3959d1088)# 💫 About Me:
+# 💫 About Me:
 - I am currently learning ML, Python3, C++ and Linux operating systems;<br>- I am very demanding, persistent and hardworking;<br>- I am most interested in blockchain technology, information security and ML;<br>- English B2;
   
 
